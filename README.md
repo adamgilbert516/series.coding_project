@@ -17,7 +17,7 @@ This is a project for Precalculus students that simultaneously teaches students 
 <h2>Files Included</h2>
 
 - <b>series.coding_project.pdf</b>  --> a pdf of the project itself
-- <b>fun_example.py</b> --> a python file with a brief example of a function
+- <b>fun_example.py</b> --> a python file with a brief example of a for loop
 - <b>array_functions.py</b> --> a python file with a brief example of an array function
 - <b>series_project_intro.py</b> --> a python file with an introductory use of functions
 - <b>series_project_arithmetic.py</b> --> a python file with an arithmetic sequence written as a function
